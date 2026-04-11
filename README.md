@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Navdeep%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Student%20%7C%20ML%20Engineer%20%7C%20Builder&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003366,60:005f99,100:00d4ff&height=200&section=header&text=Navdeep%20Singh&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=CS%20%40%20Thapar%20Institute%20%7C%20ML%20Engineer%20%7C%20Builder&descAlignY=55&descAlign=50&descColor=ffffff&descSize=15&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -95,15 +95,6 @@ navdeep = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=NavdeeepSinghh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -121,7 +112,7 @@ navdeep = {
 ![Profile Views](https://komarev.com/ghpvc/?username=NavdeeepSinghh&color=00D4FF&style=for-the-badge&label=Profile+Views)
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api??type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
