@@ -82,9 +82,6 @@ navdeep = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NavdeeepSinghh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00D4FF&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavdeeepSinghh&layout=compact&langs_count=8&theme=tokyonight&border_color=00D4FF&bg_color=0d1117&title_color=00D4FF&text_color=ffffff"/>
-
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NavdeeepSinghh&theme=tokyonight&border=00D4FF&background=0d1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)
