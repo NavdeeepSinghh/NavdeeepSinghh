@@ -69,10 +69,10 @@ navdeep = {
 
 <div align="center">
 <a href="https://github.com/NavdeeepSinghh/ML_Disaster-Prediction-Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavdeeepSinghh&repo=ML_Disaster-Prediction-Model&theme=tokyonight&border_color=00D4FF&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF" />
+  <img src="PRoject_image.png.jpeg" />
 </a>
 <a href="https://github.com/NavdeeepSinghh/RozgarNow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavdeeepSinghh&repo=RozgarNow&theme=tokyonight&border_color=00D4FF&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF" />
+  <img src="Project.png"/>
 </a>
 </div>
 
