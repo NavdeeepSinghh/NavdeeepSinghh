@@ -112,8 +112,7 @@ navdeep = {
 ![Profile Views](https://komarev.com/ghpvc/?username=NavdeeepSinghh&color=00D4FF&style=for-the-badge&label=Profile+Views)
 
 <!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api??type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:005f99,70:003366,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
 </div>
